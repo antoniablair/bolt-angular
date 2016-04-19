@@ -1,4 +1,2 @@
 # bolt-angular
-Faux store using angular directives.
-
-Practicing with Angular by creating a "gem store" via Code School. 💎 
+Faux angular app about TV programming / genres; from a tutorial.
